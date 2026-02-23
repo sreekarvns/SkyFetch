@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.eggs/
+*.env/
+.env/
+venv/
+ENV/
+.env
+.env.*
+*.env
+*.venv
+*.log
+*.pot
+*.mo
+*.sqlite3
+*.db
+*.dat
+*.tar.gz
+*.zip
+*.whl
+pip-wheel-metadata/
+*.ipynb_checkpoints/
+# VS Code
+.vscode/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
+# Others
+Open Notebook.onetoc2
